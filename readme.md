@@ -21,7 +21,7 @@ nodemon - for easy workflow and not restart server after each change/save manual
 > > - AND One of the following moves: [Thunder Shock, Quick Attack, Electro Ball, Thunder Wave]
 
 ## Folders
-> Folder 'utils' have one file that brings data fro .env and make the connect (function) to elasticsearch.
+> Folder 'utils' have one file that brings data from .env and make the connect (function) to elasticsearch.
 > Folder 'handlers' have the three handlers to answer the router
 > Folder 'data' have the list of pokemons was showed in Appendix A
 
